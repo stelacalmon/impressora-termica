@@ -23,6 +23,8 @@ OutputStream saida = impressora.getOutputStream();
 * **Porta:** `9100` (porta padrão de muitas impressoras térmicas de rede).
 * **OutputStream:** envia os comandos e textos para a impressora.
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/5da4c84e-f875-4778-98d4-daddf6013b4e" />
+
 ---
 
 ## Inicialização da impressora
